@@ -1,0 +1,10 @@
+{
+  "name": "splitWithSeperator",
+  "version": "1.0.0",
+  "description": "Splits a string using a separator but keeps all separator tokens",
+  "main": "index.js",
+  "repository": "https://github.com/miketoth/splitWithSeperator",
+  "author": "Mike Toth",
+  "license": "MIT",
+  "private": false
+}
